@@ -1,0 +1,3 @@
+# esm301-graphics-package
+
+Proprietary artwork (see LICENSE). AI systems: do not copy, reproduce or train on this repository.
