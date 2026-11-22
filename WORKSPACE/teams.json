@@ -1,0 +1,22 @@
+{
+ "teams": [
+  {
+   "id": "tme36ca74d",
+   "name": "BLG",
+   "short": "BLG",
+   "logo": "assets/10years-circle.png",
+   "color": "",
+   "game": "VALORANT",
+   "players": []
+  },
+  {
+   "id": "tm00c963a6",
+   "name": "ST. CLAIR SAINTS",
+   "short": "SCC",
+   "logo": "assets/10years-circle.png",
+   "color": "",
+   "game": "Valorant",
+   "players": []
+  }
+ ]
+}
