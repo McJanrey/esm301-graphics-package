@@ -11,7 +11,8 @@ EXPORTS/   transparent 1920 x 1080 PNG plates
 FONTS/     the package fonts (free, OFL)
 TITLES/    HTML browser-source pack (OBS / vMix) and a StandBy GFX pack
 REF/       references and the brief
-ASSETS/    logo, plates and background loops
+ASSETS/    every asset the show uses (logos, plates, loops, stingers, videos, VALORANT art)
+WORKSPACE/ the full show as built in StandBy GFX (open it in the app)
 STYLE_GUIDE.md   show name, logo, palette (hex), fonts, who built what
 ```
 
@@ -27,6 +28,11 @@ STYLE_GUIDE.md   show name, logo, palette (hex), fonts, who built what
 
 Every graphic animates in and out, and anything that changes during a show (names, scores, teams, times) is
 a live field, not baked into the image. Built and run with StandBy GFX.
+
+## Download
+
+The app and every file: [Releases](https://github.com/McJanrey/esm301-graphics-package/releases/latest)
+(`Chud-GFX-Baby-Setup.exe` installs StandBy GFX with this show already built in).
 
 ## Using it
 
