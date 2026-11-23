@@ -43,3 +43,9 @@ The app and every file: [Releases](https://github.com/McJanrey/esm301-graphics-p
 Team names, casters and schedule entries are placeholders (Team A, Team B, Caster Name): fill in your own.
 
 See LICENSE for what you may reuse.
+
+## Working on another PC
+
+1. Install StandBy GFX (Chud GFX Baby) from the private releases at https://github.com/McJanrey/chud-gfx/releases/latest (needs the GitHub login). The installed app keeps itself updated.
+2. Copy `WORKSPACE/esm` into `C:\Chud GFX Baby\workspaces\` and `WORKSPACE/teams.json` into `C:\Chud GFX Baby\library\`. New installs already include the show.
+3. Or import `TITLES/esm-graphics.sgfx` in Composer > Import.

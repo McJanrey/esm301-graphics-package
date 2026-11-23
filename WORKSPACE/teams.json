@@ -2,9 +2,9 @@
  "teams": [
   {
    "id": "tme36ca74d",
-   "name": "BLG",
-   "short": "BLG",
-   "logo": "assets/10years-circle.png",
+   "name": "FISHER",
+   "short": "FC",
+   "logo": "assets/Fisher_College_allmode-3621406617.png",
    "color": "",
    "game": "VALORANT",
    "players": []
@@ -16,6 +16,42 @@
    "logo": "assets/10years-circle.png",
    "color": "",
    "game": "Valorant",
+   "players": []
+  },
+  {
+   "id": "tme84eb7db",
+   "name": "University of Toronto",
+   "short": "UT",
+   "logo": "",
+   "color": "",
+   "game": "Valorant",
+   "players": []
+  },
+  {
+   "id": "tmf52cc2d8",
+   "name": "New team",
+   "short": "",
+   "logo": "",
+   "color": "",
+   "game": "",
+   "players": []
+  },
+  {
+   "id": "tmb8cbfb53",
+   "name": "New team",
+   "short": "",
+   "logo": "",
+   "color": "",
+   "game": "",
+   "players": []
+  },
+  {
+   "id": "tm332e9af0",
+   "name": "New team",
+   "short": "",
+   "logo": "",
+   "color": "",
+   "game": "",
    "players": []
   }
  ]
